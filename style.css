@@ -59,3 +59,19 @@ ul {
   border: none;
   cursor: pointer;
 }
+
+nav {
+  background: #2563eb;
+  text-align: center;
+  padding: 12px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 12px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
